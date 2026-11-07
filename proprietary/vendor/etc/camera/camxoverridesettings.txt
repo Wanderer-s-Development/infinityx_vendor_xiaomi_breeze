@@ -15,6 +15,6 @@ numPCRsBeforeStreamOn=0
 halBufferMgrMode=0
 nodeResponseTime=200
 sessionResponseTimePadding=250
-maxHalRequests=7
+maxHalRequests=12
 invalidSOFThreshold=40
 numberOfCHIThreads=7
